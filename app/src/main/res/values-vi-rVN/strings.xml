@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nhật kí</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="add">Thêm</string>
+    <string name="delete">Xóa</string>
+    <string name="save">Lưu</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+
+    <!-- -->
+    <string name="title_note">Tiêu đề</string>
+    <string name="content">Nội dung</string>
+    <string name="title_activity_note">Tạo nhật kí</string>
+    <string name="title_activity_sign_in">Đăng nhập</string>
+
+    <!--Password-->
+    <string name="password_hint">Mật khẩu</string>
+    <string name="password_emty">Mật khẩu không được trống</string>
+    <string name="pw_confirm">Nhập lại mật khẩu</string>
+    <string name="pw_wrong">Mật khẩu xác nhận không đúng. Vui lòng nhập lại!</string>
+    <string name="pw_confirm_err">Mật khẩu xác nhận không đúng. Vui lòng nhập lại!</string>
+    <string name="pw_confirm_seccessful">Tạo mật khẩu thành công</string>
+    <string name="password_correct">Đăng nhập thành công</string>
+
+
+    <!--Toast-->
+    <string name="add_successful">Thêm thành công!</string>
+    <string name="add_failed">Thêm nhật kí thất bại!</string>
+    <string name="update_successful">Cập nhật thành công</string>
+    <string name="update_failed">Cập nhật thất bại</string>
+    <string name="delete_successful">Xóa nhật kí thành công</string>
+    <string name="delete_failed">Xóa nhật kí thất bại</string>
+
+    <!--Sign in-->
+    <string name="sign_in_successfull">Đăng nhập thành công</string>
+    <string name="sign_in_failed">Mật khẩu không đúng! Vui lòng nhập lại.</string>
+
+
+    <!--Messege dialog-->
+    <string name="messeage_delete">Bạn có muốn xóa nhật kí?</string>
+    <!--Note-->
+    <string name="note_emty">Nhật kí trống, không lưu lại!</string>
+</resources>
